@@ -1,5 +1,5 @@
 {
-  "name": "gifted-md@v5.0.0",
+  "name": "Hashan-md@v5.0.0",
   "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make whatsapp experience better",
   "website": "https://api.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted",
@@ -11,17 +11,17 @@
     "MODE": {
       "description": "Put Mode either public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
      "OWNER_NAME": {
-      "description": "Put the name of Bot Owner",
+      "description": "Hashan",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "Hashan"
     },
     "OWNER_NUMBER": {
-      "description": "Put Bot Owner Numbers",
+      "description": "94713130673",
       "required": true,
-      "value": "254762016957"
+      "value": "94713130673"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -29,13 +29,13 @@
       "value": "false"
     },
     "SESSION_ID": {
-      "description": "Put your SESSION_ID.  Must start with Gifted~",
+      "description": "Gifted~81ES5K2U",
       "required": false,
-      "value": ""
+      "value": "Gifted~81ES5K2U"
     },
      "NOT_ALLOW": {
-      "description": "Put value true to disable bot in pm during public mode.",
-      "required": false,
+      "description": "Put value true to disable bt i pm during public mode.",
+      "requir
       "value": "false"
     },
      "WELCOME": {
